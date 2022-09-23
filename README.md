@@ -1,2 +1,2 @@
-# Basic-Projects
+# Basics Projects
 All information about the 
