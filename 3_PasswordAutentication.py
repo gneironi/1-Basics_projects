@@ -24,3 +24,6 @@ for i in database.keys():
             password = getpass.getpass("Whrong password. Enter your password again: ")
         break
 print("Verfified")
+
+#Used tools:
+#getpass library, dicts, input function, loop for and while
